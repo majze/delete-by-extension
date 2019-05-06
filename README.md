@@ -3,6 +3,10 @@ Deletes all files in the program's directory with specified file extension. Mean
 
 Exmaple: I have too many files spamming my downloads folder with .tmp at the end! Place the .exe file in the same directory, run, and enter "tmp" when prompted (no quotes).
 
+![It's a console program](https://i.imgur.com/hKEf1lB.png "Example in action")
+
+Make sure you tap enter/return to confirm.
+
 ## Possible Issues
 ### Help! I'm running linux!
 Where the source code states, 
