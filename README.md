@@ -6,13 +6,14 @@ Exmaple: I have too many files spamming my downloads folder with .tmp at the end
 ## Possible Issues
 ### Help! I'm running linux!
 Where the source code states, 
-```#include <direct.h>
-    #define GetCurrentDir _getcwd
+```
+#include <direct.h>
+#define GetCurrentDir _getcwd
 ```
 Replace with:
 ```
 #include <unistd.h>
-    #define GetCurrentDir getcwd
+#define GetCurrentDir getcwd
 ```
 Thanks [computinglife](https://stackoverflow.com/users/17224/computinglife)!
 
