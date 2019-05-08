@@ -1,7 +1,7 @@
 # delete-by-extension
 Deletes all files in the program's directory with specified file extension. Meant for windows developers but modable. Some tools required.
 
-Exmaple: I have too many files spamming my downloads folder with .tmp at the end! Place the .exe file in the same directory, run, and enter "tmp" when prompted (no quotes).
+Example: I have too many files spamming my downloads folder with .tmp at the end! Place the .exe file in the same directory, run, and enter "tmp" when prompted (no quotes).
 
 ![It's a console program](https://i.imgur.com/hKEf1lB.png "Example in action")
 
