@@ -7,8 +7,8 @@ Example: I have too many files spamming my downloads folder with .tmp at the end
 
 Make sure you tap enter/return to confirm.
 
-# ... ![l] Possible Issues ![r] ...
-## Help! I'm running linux!
+## Possible Issues
+### Help! I'm running linux!
 Where the source code states, 
 ```
 #include <direct.h>
@@ -21,10 +21,10 @@ Replace with:
 ```
 Thanks [computinglife](https://stackoverflow.com/users/17224/computinglife)!
 
-## I'm missing some weird dll?
+### I'm missing some weird dll?
 Many windows apps or features will have this already installed on your PC, but if it doesn't, download the [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
-## Questions? Bugs?
+### Questions? Bugs?
 DM me!
 
 [l]: https://i.imgur.com/YfRD1VL.png "left symbol"
